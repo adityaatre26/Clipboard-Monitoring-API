@@ -25,3 +25,17 @@ This is an API created using C++ and Windows API for monitoring clipboard while 
    Open a terminal and navigate to the folder containing the source code:
    ```bash
    cd Clipboard-Monitoring-API
+   ```
+
+3. **Compile the Program**
+   For GCC:
+   ```bash
+   g++ -o clipboard_monitor clipboard_monitor.cpp
+   ```
+
+4. **Run the Program**
+   For GCC:
+   ```bash
+   ./clipboard_monitor
+   clipboard_monitor.exe
+   ```
